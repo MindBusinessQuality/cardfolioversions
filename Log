@@ -1,3 +1,9 @@
 -Versão 2.2.2 (26)
 
-Versão 2 pertence à migração de apps moveis para web. Feita conversão de todas as funções.
+(Versão 2 pertence à migração de apps moveis para web. Feita conversão de todas as funções.)
+
+Melhorada a forma de leitura na BD dos cartões;
+Removida a label de visitantes | Pedidos para melhorar leitura dos emails no popup e o layout ficar uniforme em mobile;
+Popup para ver emails visitantes e pedidos foi melhorado, tem mais delay no carregamento para economiza as leituras à BD, desta forma será possivel implementar mais funcionalidades brevemente;
+Link associado no menu onde indica a versão que remete a este log;
+Já não é possivel mudar o email do cartão para um que já esteja escolhido;
