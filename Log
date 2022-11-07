@@ -7,3 +7,4 @@ Removida a label de visitantes | Pedidos para melhorar leitura dos emails no pop
 Popup para ver emails visitantes e pedidos foi melhorado, tem mais delay no carregamento para economiza as leituras à BD, desta forma será possivel implementar mais funcionalidades brevemente;
 Link associado no menu onde indica a versão que remete a este log;
 Já não é possivel mudar o email do cartão para um que já esteja escolhido;
+Possibilidade de adicionar cartão com a tecla enter;
