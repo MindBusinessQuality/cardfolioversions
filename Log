@@ -8,3 +8,5 @@ Popup para ver emails visitantes e pedidos foi melhorado, tem mais delay no carr
 Link associado no menu onde indica a versão que remete a este log;
 Já não é possivel mudar o email do cartão para um que já esteja escolhido;
 Possibilidade de adicionar cartão com a tecla enter;
+Possibilidade de procurar com a tecla enter;
+Ao adicionar cartão faz verificação por pedidos já enviados para não permitir novo pedido;
