@@ -10,3 +10,5 @@ Já não é possivel mudar o email do cartão para um que já esteja escolhido;
 Possibilidade de adicionar cartão com a tecla enter;
 Possibilidade de procurar com a tecla enter;
 Ao adicionar cartão faz verificação por pedidos já enviados para não permitir novo pedido;
+O popup de visiantes e pedidos já mostra os pedidos enviados para poder ignorar o envio;
+Quando um cartão é adicionado, é automaticamente enviado um email para notificar o contacto adicionado;
